@@ -9,7 +9,7 @@
         padding: 16px;
         font-family: Arial, sans-serif;
         text-align: center;
-        background-color: #f9fff9;
+        background-color: #FFC107;
       }
 
       #content {
