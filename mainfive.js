@@ -66,7 +66,7 @@
   }
 
   customElements.define(
-    "com-sample-simplewidget-v3",
+    "com-sample-simplewidget-v4",
     HelloWidget
   );
 
