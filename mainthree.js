@@ -34,7 +34,7 @@
     </style>
 
     <div id="content"></div>
-    <button id="btn">Click Me</button>
+    <button id="btn">Click Here</button>
   `;
 
   class HelloWidget extends HTMLElement {
